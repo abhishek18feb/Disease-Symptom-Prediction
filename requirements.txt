@@ -1,1 +1,9 @@
-fastapi[all]
+uv
+fastapi[standard]==0.113.0
+pydantic==2.8.0
+
+tensorflow
+numpy
+pandas
+scikit-learn
+pickle-mixin
